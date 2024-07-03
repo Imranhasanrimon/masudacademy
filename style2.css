@@ -1,0 +1,21 @@
+* {
+    font-family: 'poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: linear-gradient(45deg, blueviolet, rgb(230, 58, 230));
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.note {
+    width: 300px;
+    text-align: justify;
+    background: violet;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
